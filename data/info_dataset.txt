@@ -1,0 +1,8 @@
+https://www.kaggle.com/datasets/adityaab1407/employee-productivity-and-satisfaction-hr-data
+Employee Productivity and Satisfaction HR Data
+Explore the diverse factors impacting employee performance and satisfaction
+
+About Dataset
+This dataset was created to explore the diverse factors impacting employee performance and satisfaction in a typical organization. It spans a variety of fields from personal demographics to performance metrics and job details, offering a comprehensive view into the dynamics of the workplace.
+
+The inspiration behind the creation of this dataset is to provide an accessible resource for those interested in the field of HR analytics. It can be used to derive insights into employee performance, satisfaction, and overall engagement at work. This dataset is particularly useful for tasks such as predicting employee turnover, analyzing employee performance, and understanding the factors that influence job satisfaction.
