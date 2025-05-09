@@ -4,24 +4,31 @@ Este projeto tem como objetivo analisar dados sobre a produtividade e satisfaç�
 
 ---
 
-## 📁 Estrutura do Projeto a
-
-employee_productivity_satisfaction_hr/ │ 
-			├── data/ │
-				  ├── processed/ # Dados tratados │
-				  └── raw/ # Dados originais (não versionados)│
-			├── notebooks/ # Análises e tratamento de dados em Jupyter │ 
-			├── sql/ │
-				 ├── advanced_queries/ │
-				 ├── optmization_examples/ │
-				 ├── simple_queries/ │
-				 └── table_creation_scripts/ │ 
-			├── streamlit/ # Aplicações interativas em Streamlit │
-			├── power_bi/ # Dashboard utilizando Power BI │
-			├── .gitignore
-			├── requirements.md 
-			├── LICENSE
-		    └── README.md
+## 📁 Estrutura do Projeto:
+```text
+employee_productivity_satisfaction_hr/
+│
+├── data/
+│   ├── processed/               # Dados tratados
+│   └── raw/                     # Dados originais (não versionados)
+│
+├── notebooks/                   # Análises e tratamento de dados em Jupyter
+│
+├── sql/
+│   ├── advanced_queries/        # Consultas SQL avançadas
+│   ├── optimization_examples/    # Exemplos de otimização em SQL
+│   ├── simple_queries/          # Consultas SQL simples
+│   └── table_creation_scripts/  # Scripts de criação de tabelas
+│
+├── streamlit/                   # Aplicações interativas em Streamlit
+│
+├── power_bi/                    # Dashboards utilizando Power BI
+│
+├── .gitignore
+├── requirements.txt
+├── LICENSE
+└── README.md
+```
 ---
 
 ## 🔧 Tecnologias Utilizadas
